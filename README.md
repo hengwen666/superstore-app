@@ -2,7 +2,7 @@
 
 > **Team name:** `zhaoyile`
 >
-> **Deployed app:** `<PASTE YOUR STREAMLIT CLOUD APP URL HERE>`
+> **Deployed app:** `https://superstore-app-22a6aapthwqm2vh89yrcbp.streamlit.app/`
 >
 > **Repository:** `https://github.com/hengwen666/superstore-app`
 
